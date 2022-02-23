@@ -17,3 +17,10 @@ Data discrption
 ---
 This analysis is based on a population of healthy human data from [Human Connectome Project (HCP)](https://www.humanconnectome.org/), which has collected fMRI (Functional magnetic resonance imaging) time series data from both resting state and as well as 7 task conditions. fMRI measures brain activity by detecting changes associated with blood flow which allows us to better understand how coordinated activity across the whole brain adjusts to produce behaviorally appropriate responses to environmental changes. 
 
+Analysis process
+---
+* Compute resting-state functional connectivity to generate correlation matrices for each subject. Evaluate working memory performance through N-back task.
+
+
+* Fit the linear model to explain the relationship between individual-level behavior and functional connectivity within the three networks selected from the correlation matrix of each individual.
+* Model evaluation by splitting the dataset into a separate training set and a test set and find out the coefficients.
