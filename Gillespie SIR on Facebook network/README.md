@@ -2,7 +2,7 @@ The modeling of a stochastic SIR dynamics on Facebook social network using Gille
 ===
 Introduction
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 
 * The Gillespie Algorithm is a stochastic simulation algorithm for simulating the changes in the molecular populations of chemical species in a chemically reacting system.
 * The susceptible-infected-recovered (SIR) model is one of the most frequently studied epidemic processes in complex networks.
@@ -13,7 +13,7 @@ Introduction
     * Number of nodes(N) : 4,039; 
     * Number of edges(M) : 88,234; 
     * Mean degree $<k>$ :  43.6910; 
-    * The hand shaking lemma is $$\sum_{i=1}^{N}k_i = 2M $$; 
+    * The hand shaking lemma is ![](http://latex.codecogs.com/svg.latex?\sum_{i=1}^{N}k_i = 2M ); 
     * Average degree of a neighbor $$\frac{<k^2>}{<k>}= 635 $$
 
 
