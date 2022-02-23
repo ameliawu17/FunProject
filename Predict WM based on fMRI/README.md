@@ -20,6 +20,7 @@ This analysis is based on a population of healthy human data from [Human Connect
 Analysis process
 ---
 * Compute resting-state functional connectivity to generate correlation matrices for each subject. Evaluate working memory performance through N-back task.
+<p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Predict%20WM%20based%20on%20fMRI/functional_connectivity.png" width = 700><p>
 
 
 * Fit the linear model to explain the relationship between individual-level behavior and functional connectivity within the three networks selected from the correlation matrix of each individual.
