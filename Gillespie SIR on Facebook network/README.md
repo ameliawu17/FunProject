@@ -14,7 +14,9 @@ Introduction
     * Number of edges(M) : 88,234; 
     * Mean degree $<k>$ :  43.6910; 
     * The hand shaking lemma is ![1](http://latex.codecogs.com/svg.latex?\\sum_{i=1}^{N}k_i=2M) ; 
-    * Average degree of a neighbor ![2](http://latex.codecogs.com/svg.latex?\\frac{<k^2>}{<k>}=635)
+    * Average degree of a neighbor ![2](http://latex.codecogs.com/svg.latex?\\frac{<k^2>}{<k>}=635);
+  
+<p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Gillespie%20SIR%20on%20Facebook%20network/SIR.png" width = 700><p> 
 
 
   
