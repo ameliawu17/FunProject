@@ -1,8 +1,11 @@
 # Tong Wu  - Project Portfolio
 
 ## Index
-Welcome! Here are some fun projects that I have done these years. 
-[Predicte proformance based on resting-state connectivity that reconstracted from fMRI](https://github.com/ameliawu17/FunProject/tree/main/Predict%20WM%20based%20on%20fMRI)
+Welcome!  
+Here are some fun projects that I have done these years.   
+[Predict performance based on resting-state connectivity that reconstructed from fMRI](https://github.com/ameliawu17/FunProject/tree/main/Predict%20WM%20based%20on%20fMRI)
+
+[Simulate stochastic SIR dynamics on Facebook social network using Gillespie’s algorithm](https://github.com/ameliawu17/FunProject/tree/main/Gillespie%20SIR%20on%20Facebook%20network)
 
 ## About me
 
