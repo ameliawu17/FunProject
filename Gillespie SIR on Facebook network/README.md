@@ -13,8 +13,8 @@ Introduction
     * Number of nodes(N) : 4,039; 
     * Number of edges(M) : 88,234; 
     * Mean degree $<k>$ :  43.6910; 
-    * The hand shaking lemma is ![1](http://latex.codecogs.com/svg.latex?\sum_{i=1}^{N}k_i=2M) ; 
-    * Average degree of a neighbor $$\frac{<k^2>}{<k>}= 635 $$
+    * The hand shaking lemma is ![1](http://latex.codecogs.com/svg.latex?\\sum_{i=1}^{N}k_i=2M) ; 
+    * Average degree of a neighbor ![2](http://latex.codecogs.com/svg.latex?\\frac{<k^2>}{<k>}=635)
 
 
   
