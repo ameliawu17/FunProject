@@ -23,6 +23,6 @@ Introduction
   
 Exploratory Data Analysis
 -----
-When set ![3](http://latex.codecogs.com/svg.latex?\\beta=0.2), which is greater than ![4](http://latex.codecogs.com/svg.latex?\\beta_c) Then explore whether nodes with a higher degree tend to be eventually infected (and then recovered) than nodes with a smaller degree.  
-
+* When set ![3](http://latex.codecogs.com/svg.latex?\\beta=0.2), which is greater than ![4](http://latex.codecogs.com/svg.latex?\\beta_c) Then explore whether nodes with a higher degree tend to be eventually infected (and then recovered) than nodes with a smaller degree.  
+* The nodes with a higher degree tend to be eventually infected (and then recovered) than nodes with a smaller degree.
   
