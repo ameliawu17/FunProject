@@ -51,8 +51,8 @@ Discussion and future direction
 * Potential interaction or high collinearity between networks -> may explore ROI-to-ROI, ROI-to-Voxel analysis
 * Participants may involve networks differently corresponding to stimulus (e.g., face, tools, etc) -> may involve decoding & encoding analysis 
 
-##### References:
+#### References:
   Finn, E. S., Shen, X., Scheinost, D., Rosenberg, M. D., Huang, J., Chun, M. M., ... & Constable, R. T. (2015). Functional connectome fingerprinting: identifying   individuals using patterns of brain connectivity. Nature neuroscience, 18(11), 1664-1671.
   Sala-Llonch, R., Pena-Gomez, C., Arenaza-Urquijo, E. M., Vidal-Piñeiro, D., Bargallo, N., Junque, C., & Bartres-Faz, D. (2012). Brain connectivity during resting state and subsequent working memory task predicts behavioural performance. Cortex, 48(9), 1187-1196.
-  Van Essen, D. C., Smith, S. M., Barch, D. M., Behrens, T. E. J., Yacoub, E., Ugurbil, K., & Consortium, F. T. W.-M. H. (2013). The WU-Minn Human Connectome Project: An overview. NeuroImage, 80(C), 62–79. http://doi.org/10.1016/j.neuroimage.2013.05.041
+  Van Essen, D. C., Smith, S. M., Barch, D. M., Behrens, T. E. J., Yacoub, E., Ugurbil, K., & Consortium, F. T. W.-M. H. (2013). The WU-Minn Human Connectome Project: An overview. NeuroImage, 80(C), 62–79. 
 
