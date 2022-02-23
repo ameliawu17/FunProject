@@ -22,16 +22,25 @@ Analysis process
 * Compute resting-state functional connectivity to generate correlation matrices for each subject. Evaluate working memory performance through N-back task.
 
 #### Whole brain-wise correlation matrix
+
 <p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Predict%20WM%20based%20on%20fMRI/functional_connectivity.png" width = 700><p>
+
 * Fit the linear model to explain the relationship between individual-level behavior and functional connectivity within the three networks selected from the correlation matrix of each individual.
 
 #### Correlation between within network connectivity and 2-back reaction time 
+ 
 <p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Predict%20WM%20based%20on%20fMRI/correlation.png" width = 700><p>
+ 
   * There is a weak positive correlation between connectivity and reaction time.
+ 
 * Model evaluation by splitting the dataset into a separate training set and a test set and find out the coefficients.
+ 
 <p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Predict%20WM%20based%20on%20fMRI/coefficients.png" width = 700><p>
+ 
   * Frontoparietal network connectivity significantly predicts 2-back reaction time, independent of default mode and somatomotor network connectivity
+ 
 <p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Predict%20WM%20based%20on%20fMRI/multiple_regression.png" width = 700><p>
+ 
   * Model evaluation: the mean squared error is very large. Also, according to the coefficient of determination, the prediction does a very bad job.
  
 Analysis process
