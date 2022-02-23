@@ -5,7 +5,7 @@ Introduction
 
 
 * The Gillespie Algorithm is a stochastic simulation algorithm for simulating the changes in the molecular populations of chemical species in a chemically reacting system.
-* The susceptible-infected-recovered (SIR) model is one of the most frequently studied epidemic processes in complex networks.
+* The susceptible-infected-recovered (SIR) model is one of the most frequently studied epidemic processes in complex networks. There are enormous studies have applied SIR model to assess the spread of the COVID-19 disease and predict the number of infected and recovered populations.
 
 <p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Gillespie%20SIR%20on%20Facebook%20network/SIR.png" width = 700><p>   
   
@@ -16,7 +16,7 @@ Introduction
     * The hand shaking lemma is ![1](http://latex.codecogs.com/svg.latex?\\sum_{i=1}^{N}k_i=2M) ; 
     * Average degree of a neighbor ![2](http://latex.codecogs.com/svg.latex?\\frac{<k^2>}{<k>}=635);
   
-### Visualize the network such that the node color varies with degree and node size with betweenness centrality
+#### Visualize the network such that the node color varies with degree and node size with betweenness centrality
   
 <p align="center"><img src = "https://github.com/ameliawu17/PersonalProject/blob/main/Gillespie%20SIR%20on%20Facebook%20network/FB_network.png" width = 700><p>  
   
