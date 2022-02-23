@@ -21,6 +21,8 @@ Introduction
   
 #### Problem statement: Is there any relationship between nodes' degrees and time to get infected?  
   
-
+Exploratory Data Analysis
+-----
+When set (http://latex.codecogs.com/svg.latex?\\beta=0.2), which is greater than (http://latex.codecogs.com/svg.latex?\\beta_c) Then explore whether nodes with a higher degree tend to be eventually infected (and then recovered) than nodes with a smaller degree.  
 
   
