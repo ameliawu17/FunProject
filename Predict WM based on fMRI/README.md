@@ -43,5 +43,8 @@ Analysis process
  
   * Model evaluation: the mean squared error is very large. Also, according to the coefficient of determination, the prediction does a very bad job.
  
-Analysis process
+Discussion and future direction
 ---
+* Potential ceiling effect: the working memory task performance show limited individual difference 
+* Potential interaction or high collinearity between networks -> may explore ROI-to-ROI, ROI-to-Voxel analysis
+* Participants may involve networks differently corresponding to stimulus (e.g., face, tools, etc) -> may involve decoding & encoding analysis 
