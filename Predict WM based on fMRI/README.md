@@ -1,5 +1,5 @@
 Predicting individual responses in working memory tasks based on resting-state functional connectivity
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/ameliawu17/7fe9266d9ea1965ad6293b42d19ba0e0/predicting-individual-responses-in-working-memory-tasks-based-on-resting-state-functional-connectivity.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/ameliawu17/7fe9266d9ea1965ad6293b42d19ba0e0/predicting-individual-responses-in-working-memory-tasks-based-on-resting-state-functional-connectivity.ipynb)
 ===
 Problem Statement
 ---
